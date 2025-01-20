@@ -1,0 +1,267 @@
+[
+    {
+        "Product_Id": "MTB2023XCA9",
+        "Product_Name": "\u00a0Specialized Allez",
+        "Model_year": 2020.0,
+        "Price": "$599.99 ",
+        "Category_id": 1.0,
+        "Brand_id": 1.0,
+        "Onhand_quantity": 10.0,
+        "creation_date": "11\/5\/20",
+        "updated_date": "2\/22\/2021"
+    },
+    {
+        "Product_Id": "FG2023SBCCL",
+        "Product_Name": "Cannondale CAAD13 Disc",
+        "Model_year": 2021.0,
+        "Price": "$749.99 ",
+        "Category_id": 1.0,
+        "Brand_id": 2.0,
+        "Onhand_quantity": 15.0,
+        "creation_date": "9\/29\/2021",
+        "updated_date": null
+    },
+    {
+        "Product_Id": "FB2023BS6L",
+        "Product_Name": "Giant Contend SL1",
+        "Model_year": 2022.0,
+        "Price": "$899.99 ",
+        "Category_id": 1.0,
+        "Brand_id": 3.0,
+        "Onhand_quantity": 5.0,
+        "creation_date": "9\/1\/2022",
+        "updated_date": "1\/26\/2023"
+    },
+    {
+        "Product_Id": "EB2023RPBRR",
+        "Product_Name": "Trek X-Caliber 9",
+        "Model_year": 2023.0,
+        "Price": "$649.99 ",
+        "Category_id": 2.0,
+        "Brand_id": 4.0,
+        "Onhand_quantity": 6.0,
+        "creation_date": "12\/4\/2023",
+        "updated_date": null
+    },
+    {
+        "Product_Id": "HB2023GET3",
+        "Product_Name": "Specialized Rockhopper",
+        "Model_year": 2020.0,
+        "Price": "$799.99 ",
+        "Category_id": 2.0,
+        "Brand_id": 5.0,
+        "Onhand_quantity": 7.0,
+        "creation_date": "11\/24\/20",
+        "updated_date": "6\/28\/2022"
+    },
+    {
+        "Product_Id": "MTB2023SRH",
+        "Product_Name": "Giant Anthem Advanced Pro 29",
+        "Model_year": 2021.0,
+        "Price": "$549.99 ",
+        "Category_id": 2.0,
+        "Brand_id": 6.0,
+        "Onhand_quantity": 8.0,
+        "creation_date": "7\/19\/21",
+        "updated_date": null
+    },
+    {
+        "Product_Id": "FG2023QCXT",
+        "Product_Name": "Santa Cruz Nomad",
+        "Model_year": 2022.0,
+        "Price": "$999.99 ",
+        "Category_id": 2.0,
+        "Brand_id": 1.0,
+        "Onhand_quantity": 9.0,
+        "creation_date": "11\/2\/22",
+        "updated_date": null
+    },
+    {
+        "Product_Id": "FB2023TM8D",
+        "Product_Name": "State Bicycle Co. Core Line",
+        "Model_year": 2023.0,
+        "Price": "$699.99 ",
+        "Category_id": 3.0,
+        "Brand_id": 2.0,
+        "Onhand_quantity": 12.0,
+        "creation_date": "7\/14\/2023",
+        "updated_date": null
+    },
+    {
+        "Product_Id": "EB2023STV",
+        "Product_Name": "Cinelli Tutto",
+        "Model_year": 2020.0,
+        "Price": "$849.99 ",
+        "Category_id": 3.0,
+        "Brand_id": 3.0,
+        "Onhand_quantity": 14.0,
+        "creation_date": "12\/23\/20",
+        "updated_date": "6\/21\/2023"
+    },
+    {
+        "Product_Id": "HB2023TSX5",
+        "Product_Name": "Pure Cycles Original Series",
+        "Model_year": 2021.0,
+        "Price": "$759.99 ",
+        "Category_id": 3.0,
+        "Brand_id": 4.0,
+        "Onhand_quantity": 16.0,
+        "creation_date": "7\/14\/21",
+        "updated_date": null
+    },
+    {
+        "Product_Id": "MTB2023GAP29",
+        "Product_Name": "Quella Varsity",
+        "Model_year": 2022.0,
+        "Price": "$629.99 ",
+        "Category_id": 3.0,
+        "Brand_id": 5.0,
+        "Onhand_quantity": 33.0,
+        "creation_date": "8\/22\/2022",
+        "updated_date": null
+    },
+    {
+        "Product_Id": "FG2023PCOS",
+        "Product_Name": "Tern Link D8",
+        "Model_year": 2023.0,
+        "Price": "$779.99 ",
+        "Category_id": 4.0,
+        "Brand_id": 6.0,
+        "Onhand_quantity": 12.0,
+        "creation_date": "4\/3\/23",
+        "updated_date": null
+    },
+    {
+        "Product_Id": "FB2023BMSD8",
+        "Product_Name": "Strida LT",
+        "Model_year": 2020.0,
+        "Price": "$909.99 ",
+        "Category_id": 4.0,
+        "Brand_id": 1.0,
+        "Onhand_quantity": 17.0,
+        "creation_date": "8\/3\/20",
+        "updated_date": null
+    },
+    {
+        "Product_Id": "EB2023SATV",
+        "Product_Name": "Dahon Mariner D8",
+        "Model_year": 2021.0,
+        "Price": "$669.99 ",
+        "Category_id": 4.0,
+        "Brand_id": 2.0,
+        "Onhand_quantity": 19.0,
+        "creation_date": "9\/1\/21",
+        "updated_date": "11\/26\/2022"
+    },
+    {
+        "Product_Id": "HB2023GQCC3",
+        "Product_Name": "Rad Power Bikes RadRover",
+        "Model_year": 2022.0,
+        "Price": "$819.99 ",
+        "Category_id": 5.0,
+        "Brand_id": 3.0,
+        "Onhand_quantity": 15.0,
+        "creation_date": "11\/30\/22",
+        "updated_date": null
+    },
+    {
+        "Product_Id": "MTB2023YTNR",
+        "Product_Name": "Ancheer Electric Mountain Bike",
+        "Model_year": 2023.0,
+        "Price": "$569.99 ",
+        "Category_id": 5.0,
+        "Brand_id": 4.0,
+        "Onhand_quantity": 20.0,
+        "creation_date": "12\/21\/23",
+        "updated_date": null
+    },
+    {
+        "Product_Id": "FG2023PUCE",
+        "Product_Name": "Specialized Turbo Vado",
+        "Model_year": 2020.0,
+        "Price": "$979.99 ",
+        "Category_id": 5.0,
+        "Brand_id": 5.0,
+        "Onhand_quantity": 22.0,
+        "creation_date": "1\/7\/20",
+        "updated_date": null
+    },
+    {
+        "Product_Id": "FB2023TLD8",
+        "Product_Name": "Gazelle Ultimate T10+ HMB",
+        "Model_year": 2021.0,
+        "Price": "$719.99 ",
+        "Category_id": 5.0,
+        "Brand_id": 6.0,
+        "Onhand_quantity": 7.0,
+        "creation_date": "8\/19\/21",
+        "updated_date": null
+    },
+    {
+        "Product_Id": "EB2023MVT",
+        "Product_Name": "Giant Escape 3",
+        "Model_year": 2022.0,
+        "Price": "$869.99 ",
+        "Category_id": 6.0,
+        "Brand_id": 1.0,
+        "Onhand_quantity": 9.0,
+        "creation_date": "10\/18\/22",
+        "updated_date": "1\/1\/2021"
+    },
+    {
+        "Product_Id": "HB2023S5X",
+        "Product_Name": "Trek FX 3",
+        "Model_year": 2023.0,
+        "Price": "$789.99 ",
+        "Category_id": 6.0,
+        "Brand_id": 2.0,
+        "Onhand_quantity": 9.0,
+        "creation_date": "5\/2\/23",
+        "updated_date": null
+    },
+    {
+        "Product_Id": "MTB2023RDB9",
+        "Product_Name": "Cannondale Quick CX 3",
+        "Model_year": 2023.0,
+        "Price": "$599.99 ",
+        "Category_id": 6.0,
+        "Brand_id": 3.0,
+        "Onhand_quantity": 10.0,
+        "creation_date": "2\/16\/23",
+        "updated_date": null
+    },
+    {
+        "Product_Id": "FG2023UZT",
+        "Product_Name": "Specialized Sirrus X 5.0",
+        "Model_year": 2023.0,
+        "Price": "$749.99 ",
+        "Category_id": 6.0,
+        "Brand_id": 4.0,
+        "Onhand_quantity": 13.0,
+        "creation_date": "4\/12\/23",
+        "updated_date": null
+    },
+    {
+        "Product_Id": null,
+        "Product_Name": null,
+        "Model_year": null,
+        "Price": null,
+        "Category_id": null,
+        "Brand_id": null,
+        "Onhand_quantity": null,
+        "creation_date": null,
+        "updated_date": null
+    },
+    {
+        "Product_Id": null,
+        "Product_Name": null,
+        "Model_year": null,
+        "Price": null,
+        "Category_id": null,
+        "Brand_id": null,
+        "Onhand_quantity": null,
+        "creation_date": null,
+        "updated_date": null
+    }
+]
+

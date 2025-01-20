@@ -1,0 +1,38 @@
+[
+    {
+        "Category_ID": 1,
+        "Category_Name": "Road bike",
+        "creation_date": "1\/26\/2022",
+        "updated_date": "2\/11\/2023"
+    },
+    {
+        "Category_ID": 2,
+        "Category_Name": "Mountain bike",
+        "creation_date": "6\/28\/2022",
+        "updated_date": 'null'
+    },
+    {
+        "Category_ID": 3,
+        "Category_Name": "Fixed Gear",
+        "creation_date": "1\/1\/2021",
+        "updated_date": "7\/17\/2022"
+    },
+    {
+        "Category_ID": 4,
+        "Category_Name": "Folding bicycle",
+        "creation_date": "6\/21\/2023",
+        "updated_date": 'null'
+    },
+    {
+        "Category_ID": 5,
+        "Category_Name": "Electric",
+        "creation_date": "11\/26\/2022",
+        "updated_date": 'null'
+    },
+    {
+        "Category_ID": 6,
+        "Category_Name": "Hybrid",
+        "creation_date": "8\/12\/2022",
+        "updated_date": "5\/2\/2023"
+    }
+]
